@@ -1,0 +1,29 @@
+
+    
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Web-caesar</title>
+    <link rel="stylesheet"
+          type="text/css"
+          href="file:///C:/Users/Mingxing/lc101/web-caesar/styles.css"
+
+form {
+      background-color: lightgrey;
+      padding: 20px;
+      margin: 20px;
+      width: 540px;
+      font: 16px sans-serif;
+      border-radius: 10px;
+}
+textarea {
+         margin: 10px 0;
+         width: 540px;
+         height: 120px;
+}
+</html>
+
+
+
+
+
