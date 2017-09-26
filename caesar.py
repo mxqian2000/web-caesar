@@ -1,4 +1,3 @@
-from caesar import rotate_string
 
 def alphabet_position(character):
     alphabet = 'abcdefghijklmnopqrstuvwxyz'
@@ -38,7 +37,7 @@ def rotate_string(text, rot):
         else:
             rotated = rotated + char
 
-return rotated
+    return rotated
 
 
 
