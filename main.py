@@ -28,12 +28,13 @@ form = """
     </head>
     <body>
         <form action="/encrypt" method="post">
-            <div>                
+            <div> 
+                <label>Rotate by:</label>               
                 <input type="text"  name = "rot" value = "0">
                  <p class="Error"> </p>
             </div>  
             <p>              
-                <textarea  name = "text" required>{}</textarea>   
+                <textarea name = "text" required>{}</textarea>   
             </p>
             <div>                 
               <input type="submit"  value = "Submit query"/>
